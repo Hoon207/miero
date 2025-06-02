@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+
+.title_back{
+  background: url('http://iamhooon.dothome.co.kr/hwaiba/images/sub_bg1.jpg');
+  height:250px;
+
+}
+
+main nav{height:50px; background:rgb(173, 173, 173);}
+main .con article{width:1200px; margin:0 auto;}
+main .con h2{display:none;}
+main article{background-color: none;}
+.con ul{display: flex; justify-content: space-around; width:200px; margin:0 auto;}
+.con ul li{line-height: 50px; width:400px;}
+.ya a{color: #f36f21; padding-right:30px; text-decoration: none; font-weight: bold;}
+.ya::after{content:""; border-right:1px solid black;}
+
+
